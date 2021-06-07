@@ -48,7 +48,8 @@ For support, join our [Discord support server](https://discord.gg/wZk8n4nuB5).
 - [@AbdullahSH](https://github.com/AbdullahSH2004)
   
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
 
-  # shorten.url
+## https://i8.ae
+The rights belong to them.
+https://i8.ae was used to do this package.

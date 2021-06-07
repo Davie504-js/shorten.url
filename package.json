@@ -1,0 +1,26 @@
+{
+  "name": "shorten.short",
+  "version": "1.0.3",
+  "description": "Short your invite link with shorten.url",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z7pz/shorten.url.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z7pz/shorten.url/issues"
+  },
+  "homepage": "https://github.com/z7pz/shorten.url#readme"
+}
